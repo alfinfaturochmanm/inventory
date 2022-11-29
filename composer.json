@@ -1,0 +1,12 @@
+{
+    "name": "alfinfaturochmanm/inventory-package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Mochammad Alfin Faturochman",
+            "email": "82384511+alfinfaturochmanm@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
